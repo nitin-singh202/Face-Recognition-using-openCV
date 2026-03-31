@@ -14,7 +14,7 @@ Built with TensorFlow/Keras and OpenCV.
 
 | Surprised | Fear | Sad |
 |:---:|:---:|:---:|
-| ![Surprised](results/surprised.png) | ![Fear](results/fear.png) | ![Sad](results/sad.png) |
+| ![Surprise](results/surprised.png) | ![Fear](results/fear.png) | ![Sad](results/sad.png) |
 
 ---
 
